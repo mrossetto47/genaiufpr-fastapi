@@ -238,4 +238,4 @@ Essa funcionalidade não faz parte da versão atual do projeto.
 
 **Matheus Rossetto**
 
-Projeto desenvolvido para a disciplina **Python para IA (PYAI)** — Especialização em Inteligência Artificial Generativa — **UFPR**.# upgraded-potato
+Projeto desenvolvido para a disciplina **Python para IA (PYAI)** — Especialização em Inteligência Artificial Generativa — **UFPR**.
